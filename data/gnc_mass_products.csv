@@ -1,12 +1,26 @@
 Store,Product Name,Product Link,Price,Num Reviews,Avg Rating,Calories,Protein (g),Total Num Servings,Serving Size,Serving Size (g)
+GNC,GNC AMP MASS XXX™ with MyoTor® - Strawberry,https://www.gnc.com/mass-gainers/123406.html,84.99,172,4.5,800.0,50.0,13.0,4 Scoop(s),
+GNC,GNC Pro Performance® Weight Gainer - Double Chocolate,https://www.gnc.com/mass-gainers/369935.html,34.99,268,4.0,700.0,50.0,6.0,4 Scoop(s),
+GNC,GNC Pro Performance® Weight Gainer - Strawberries and Cream,https://www.gnc.com/mass-gainers/369937.html,34.99,268,4.0,700.0,50.0,6.0,4 Scoop(s),
+GNC,GNC Pro Performance® Bulk 1340 - Double Chocolate,https://www.gnc.com/mass-gainers/414803.html,81.99,837,4.5,1340.0,50.0,15.0,6 Scoop,360.0
+GNC,GNC Pro Performance® Bulk 1340 - Vanilla Ice Cream,https://www.gnc.com/mass-gainers/414804.html,81.99,837,4.5,1340.0,50.0,15.0,6 Scoop,360.0
+GNC,PMD® Amplify XL® - Double Chocolate Explosion,https://www.gnc.com/mass-gainers/966845.html,109.99,55,4.5,140.0,25.0,48.0,1 Scoop(s),
+GNC,PMD® Amplify® XL - Cinnamon Toast,https://www.gnc.com/mass-gainers/966888.html,67.99,55,4.5,140.0,25.0,24.0,1 Scoop(s),
+GNC,PMD® Amplify XL® - Vanilla Flex,https://www.gnc.com/mass-gainers/966847.html,109.99,55,4.5,140.0,25.0,48.0,1 Scoop(s),
+GNC,PMD® Amplify XL® - Strawberry Slam,https://www.gnc.com/mass-gainers/967037.html,67.99,55,4.5,140.0,25.0,24.0,1 Scoop(s),
 GNC,Optimum Nutrition Serious Mass™ - Chocolate,https://www.gnc.com/mass-gainers/350315.html,54.99,437,4.5,1250.0,50.0,8.0,2 Heaping Scoop(s),
 GNC,Optimum Nutrition Serious Mass™ - Vanilla,https://www.gnc.com/mass-gainers/350365.html,54.99,437,4.5,1250.0,50.0,8.0,2 Heaping Scoop(s),
 GNC,Mutant Mass Gainer - Strawberry Banana,https://www.gnc.com/mass-gainers/433531.html,54.99,13,5.0,550.0,28.0,16.0,2 scoops,
 GNC,Optimum Nutrition Serious Mass™ - Chocolate Peanut Butter,https://www.gnc.com/mass-gainers/352360.html,54.99,437,4.5,1250.0,50.0,8.0,2 Scoop(s),
 GNC,Mutant Mass Gainer - Vanilla Ice Cream,https://www.gnc.com/mass-gainers/433529.html,54.99,13,5.0,550.0,28.0,16.0,2 scoops,
+GNC,PMD® Amplify XL® - Vanilla Flex,https://www.gnc.com/mass-gainers/966846.html,67.99,55,4.5,140.0,25.0,24.0,1 Scoop(s),
 GNC,Mutant Mass Gainer - Triple Chocolate,https://www.gnc.com/mass-gainers/433530.html,54.99,13,5.0,550.0,28.0,16.0,2 scoops,
+GNC,PMD® Amplify XL® - Mango Mania,https://www.gnc.com/mass-gainers/967010.html,67.99,55,4.5,140.0,25.0,24.0,1 Scoop(s),
+GNC,PMD® Amplify® XL - Peanut Butter Cup,https://www.gnc.com/mass-gainers/966889.html,67.99,55,4.5,160.0,25.0,24.0,1 Scoop(s),
 GNC,Raw Nutrition Mass Gainer - Chocolate,https://www.gnc.com/mass-gainers/604784.html,54.99,5,4.5,1070.0,53.0,10.0,4 Scoops,275.0
 GNC,REDCON1 Mass Gainer - Chocolate,https://www.gnc.com/mass-gainers/549011.html,44.99,10,4.5,1230.0,50.0,8.0,5 scoops,
+GNC,PMD® Amplify® XL - Toffee Macchiato,https://www.gnc.com/mass-gainers/966890.html,67.99,55,4.5,160.0,25.0,24.0,1 Servings,
+GNC,PMD® Amplify XL® - Double Chocolate Explosion,https://www.gnc.com/mass-gainers/966844.html,67.99,55,4.5,140.0,25.0,24.0,1 Scoop(s),
 GNC,BSN® True-Mass® - Chocolate Milkshake,https://www.gnc.com/mass-gainers/387318.html,89.99,50,4.5,700.0,46.0,16.0,3 Scoop(s),
 GNC,REDCON1 Mass Gainer - Vanilla,https://www.gnc.com/mass-gainers/549010.html,44.99,10,4.5,1270.0,50.0,8.0,5 scoops,
 GNC,Raw Nutrition Mass Gainer - Vanilla,https://www.gnc.com/mass-gainers/604785.html,54.99,5,4.5,1070.0,53.0,10.0,4 Scoops,275.0
@@ -15,14 +29,23 @@ GNC,G6 Sports Mass Pro High Protein Mass Gainer - Cookie Butter,https://www.gnc.
 GNC,Mutant Mass Gainer - Cookies & Cream,https://www.gnc.com/mass-gainers/433532.html,54.99,13,5.0,550.0,28.0,16.0,2 scoops,
 GNC,BSN® True-Mass® - Vanilla Ice Cream,https://www.gnc.com/mass-gainers/387319.html,89.99,50,4.5,700.0,50.0,16.0,3 Scoop(s),
 GNC,G6 Sports Mass Pro High Protein Mass Gainer- Vanilla,https://www.gnc.com/mass-gainers/520824.html,99.99,28,4.5,820.0,64.0,14.0,5 Scoop(s),
+GNC,Blessed Gainz Wholefood Muscle Gainer - Peanut Butter,https://www.gnc.com/mass-gainers/559638.html,59.99,45,5.0,290.0,40.0,20.0,2 Scoops,73.7
 GNC,Optimum Nutrition Serious Mass™ - Strawberry,https://www.gnc.com/mass-gainers/352341.html,54.99,437,4.5,1250.0,50.0,8.0,2 Heaping Scoops,
+GNC,SirenLabs® ULTRA KARBS™ - Natural,https://www.gnc.com/mass-gainers/502700.html,49.99,7,5.0,100.0,0.0,40.0,1 Scoop(s),
 GNC,Optimum Nutrition Serious Mass™ - Banana,https://www.gnc.com/mass-gainers/350273.html,54.99,8,4.0,1250.0,50.0,8.0,2 Heaping Scoop(s),
-GNC,Beyond Raw® Dynamic Gainer High-Tech Mass Gainer: Chocolate Éclair,https://www.gnc.com/mass-gainers/576639.html,74.99,46,4.5,810.0,50.0,15.0,4 scoops,
-GNC,Beyond Raw® Dynamic Gainer High-Tech Mass Gainer: Vanilla Cheesecake,https://www.gnc.com/mass-gainers/576641.html,74.99,46,4.5,810.0,50.0,15.0,4 scoops,
-GNC,Beyond Raw® Dynamic Gainer High-Tech Mass Gainer: Strawberry Shortcake,https://www.gnc.com/mass-gainers/576640.html,74.99,46,4.5,810.0,50.0,15.0,4 scoops,
-GNC,Dymatize® Super Mass Gainer - Rich Chocolate,https://www.gnc.com/mass-gainers/364891.html,54.99,56,4.5,1280.0,52.0,8.0,2.5 cups (5 scoops),
-GNC,Dymatize® Super Mass Gainer - Fruity Pebbles,https://www.gnc.com/mass-gainers/364763.html,54.99,56,4.5,1290.0,52.0,8.0,2.5 cups (5 scoops),
-GNC,Dymatize® Super Mass Gainer™ - Gourmet Vanilla,https://www.gnc.com/mass-gainers/364892.html,54.99,56,4.5,1280.0,52.0,8.0,2.5 cups (5 scoops),
+GNC,GNC AMP MASS XXX™ with MyoTor® - Chocolate,https://www.gnc.com/mass-gainers/123404.html,84.99,172,4.5,780.0,50.0,13.0,4 Scoop(s),
 GNC,Optimum Nutrition Serious Mass - Chocolate,https://www.gnc.com/mass-gainers/350367.html,84.99,437,4.5,1250.0,50.0,16.0,2 Heaping Scoop(s),
+GNC,GNC Pro Performance® Bulk 1340 - Cookies and Cream,https://www.gnc.com/mass-gainers/414781.html,51.99,837,4.5,1340.0,50.0,9.0,6 Scoop,360.0
 GNC,GNC AMP Mass XXX™ with MyoTor® - Vanilla,https://www.gnc.com/mass-gainers/123405.html,84.99,172,4.5,800.0,50.0,13.0,4 Scoop(s),
 GNC,Optimum Nutrition Serious Mass - Vanilla,https://www.gnc.com/mass-gainers/350134.html,84.99,437,4.5,1250.0,50.0,16.0,,334.0
+GNC,GNC AMP MASS XXX™ with MyoTor® - Cookies and Cream,https://www.gnc.com/mass-gainers/123407.html,84.99,172,4.5,800.0,50.0,13.0,4 Scoop(s),
+GNC,GNC Pro Performance® Weight Gainer - Vanilla Ice Cream,https://www.gnc.com/mass-gainers/369936.html,34.99,268,4.0,700.0,50.0,6.0,4 Scoops,182.0
+GNC,Beyond Raw® Dynamic Gainer High-Tech Mass Gainer: Chocolate Éclair,https://www.gnc.com/mass-gainers/576639.html,74.99,46,4.5,810.0,50.0,15.0,4 scoops,217.0
+GNC,Beyond Raw® Dynamic Gainer High-Tech Mass Gainer: Vanilla Cheesecake,https://www.gnc.com/mass-gainers/576641.html,74.99,46,4.5,810.0,50.0,15.0,4 scoops,217.0
+GNC,Beyond Raw® Dynamic Gainer High-Tech Mass Gainer: Strawberry Shortcake,https://www.gnc.com/mass-gainers/576640.html,74.99,46,4.5,810.0,50.0,15.0,4 scoops,217.0
+GNC,Dymatize® Super Mass Gainer - Rich Chocolate,https://www.gnc.com/mass-gainers/364891.html,54.99,56,4.5,1280.0,52.0,8.0,5 scoops,336.0
+GNC,Dymatize® Super Mass Gainer - Fruity Pebbles,https://www.gnc.com/mass-gainers/364763.html,54.99,56,4.5,1290.0,52.0,8.0,5 scoops,336.0
+GNC,Dymatize® Super Mass Gainer™ - Gourmet Vanilla,https://www.gnc.com/mass-gainers/364892.html,54.99,56,4.5,1280.0,52.0,8.0,5 scoops,336.0
+GNC,GNC Pro Performance® Bulk 1340 - Strawberries and Cream,https://www.gnc.com/mass-gainers/414780.html,51.99,838,4.5,1340.0,50.0,9.0,6 scoops,366.0
+GNC,GNC Pro Performance® Bulk 1340 - Double Chocolate,https://www.gnc.com/mass-gainers/414778.html,51.99,838,4.5,1340.0,50.0,9.0,6 Scoop,360.0
+GNC,GNC Pro Performance® Bulk 1340 - Vanilla Ice Cream,https://www.gnc.com/mass-gainers/414779.html,51.99,838,4.5,1340.0,50.0,9.0,6 Scoop(s) in Water,
